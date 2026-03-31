@@ -1,0 +1,10 @@
+# Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+*.iml
+.project
+.classpath
