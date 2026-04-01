@@ -37,3 +37,15 @@ build/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+*.iml
+.project
+.classpath
+b05e1f668db3fe847756682b1e793dfe1ad75bb7
