@@ -1,6 +1,6 @@
 package model;
 
-public class Resource {
+public abstract class Resource {
 
     private String resourceId;
     private String resourceName;
