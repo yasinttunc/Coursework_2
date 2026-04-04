@@ -1,4 +1,4 @@
-package model;
+package com.raian.model;
 
 public abstract class Resource {
 

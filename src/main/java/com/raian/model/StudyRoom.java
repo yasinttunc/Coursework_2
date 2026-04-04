@@ -1,4 +1,4 @@
-package model;
+package com.raian.model;
 
 public class StudyRoom extends Resource {
     private int capacity;

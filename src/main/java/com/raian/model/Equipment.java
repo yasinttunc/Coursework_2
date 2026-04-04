@@ -1,4 +1,4 @@
-package model;
+package com.raian.model;
 
 public class Equipment extends Resource {
     private int quantity;
