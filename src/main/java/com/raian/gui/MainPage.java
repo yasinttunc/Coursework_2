@@ -42,7 +42,11 @@ public class MainPage extends Application {
         }
 
         // Button actions
-        loginBtn.setOnAction(e -> System.out.println("Login clicked"));
+        loginBtn.setOnAction(e -> {
+            LoginPage loginPage = new LoginPage();
+            loginPage.start(primaryStage);
+        });
+
         viewResourcesBtn.setOnAction(e -> System.out.println("View Resources clicked"));
         myBookingsBtn.setOnAction(e -> System.out.println("My Bookings clicked"));
 
